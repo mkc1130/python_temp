@@ -9,4 +9,4 @@
 
 저장소에 대한 소개글을 작성합니다.
 
-![이미지 연습](https://cdn.discordapp.com/attachments/505947888799711255/919525986113044490/unknown.png)
+![이미지 연습](./images/unknown.png)
